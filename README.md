@@ -11,7 +11,7 @@ This is a RESTful API for a Project Management System built using Java 17 and Sp
 ## Project Setup
 
 1. Initialize a new Spring Boot project using [Spring Initializr](https://start.spring.io/).
-2. Include dependencies: `Spring Web`, `Spring Data JPA`, `H2 Database`, `springdoc-openapi-ui`.
+2. Include dependencies: `Spring Web`, `Spring Data JPA`, `H2 Database`.
 3. Download the project and open it in your IDE.
 
 ## Database Configuration
